@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lifujun/ros_robot/ros_master/ros_ws/devel/setup.sh
